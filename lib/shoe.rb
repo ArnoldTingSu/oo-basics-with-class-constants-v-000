@@ -16,5 +16,5 @@ class Shoe
 def shoe=(shoe)
   @shoe = shoe
   SHOES << shoe
-end
+  end
 end
